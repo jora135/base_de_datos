@@ -1,5 +1,5 @@
 # base_de_datos
-gestor de usuarios con frontend en pagina desarrollada en HTML, Css y Js 
+Gestor de usuarios 
 
 Aplicacion desarrollada para gestionar Usuarios,
 se desarrollo un Backend en Java y un Frontend en JavaScript, Html y Css, con Sprint Boot,
